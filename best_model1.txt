@@ -1,0 +1,6 @@
+input	[size: 784    batch size: 32                       ]
+layer 1	[size: 1000   activation: relu          drop%: 0.68]
+layer 2	[size: 200    activation: tanh          drop%: 0.95]
+output	[size: 10     activation: softmax                  ]
+_________________________________________________________________
+0.9788
