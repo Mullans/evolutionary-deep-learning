@@ -205,7 +205,7 @@ class Population(object):
 
         self.population = sorted(
             self.population, key=lambda x: x.fitness, reverse=True)
-        output_log = open("output_log3.csv", 'w')
+        output_log = open("output_log.csv", 'w')
         output_log.write(log)
         output_log.close()
         if(verbose >= 1):
