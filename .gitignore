@@ -60,3 +60,19 @@ target/
 *.hdf5
 
 logs/
+
+MNIST_data/t10k-images-idx3-ubyte\.gz
+
+MNIST_data/t10k-labels-idx1-ubyte\.gz
+
+MNIST_data/train-images-idx3-ubyte\.gz
+
+MNIST_data/train-labels-idx1-ubyte\.gz
+
+MNIST-data/t10k-images-idx3-ubyte\.gz
+
+MNIST-data/t10k-labels-idx1-ubyte\.gz
+
+MNIST-data/train-images-idx3-ubyte\.gz
+
+MNIST-data/train-labels-idx1-ubyte\.gz
